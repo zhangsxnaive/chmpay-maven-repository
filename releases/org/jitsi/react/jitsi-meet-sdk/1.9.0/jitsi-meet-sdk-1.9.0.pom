@@ -11,12 +11,12 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-background-timer</artifactId>
-      <version>2.0.0-jitsi-1</version>
+      <version>1.2.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-fast-image</artifactId>
-      <version>4.0.14-jitsi-1</version>
+      <artifactId>react-native-fetch-blob</artifactId>
+      <version>0.10.8-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
@@ -26,22 +26,12 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-keep-awake</artifactId>
-      <version>2.0.6-jitsi-1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-locale-detector</artifactId>
-      <version>1.0.0-jitsi-1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-sound</artifactId>
-      <version>0.10.9-jitsi-1</version>
+      <version>2.0.5-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-vector-icons</artifactId>
-      <version>4.4.2-jitsi-1</version>
+      <version>4.3.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
@@ -50,23 +40,13 @@
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-calendar-events</artifactId>
-      <version>1.6.1-jitsi-1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.facebook.react</groupId>
       <artifactId>react-native</artifactId>
-      <version>0.55.4</version>
+      <version>0.42.3</version>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
-      <version>27.0.2</version>
-    </dependency>
-    <dependency>
-      <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-linear-gradient</artifactId>
-      <version>2.4.0-jitsi-1</version>
+      <version>25.4.0</version>
     </dependency>
   </dependencies>
 </project>
